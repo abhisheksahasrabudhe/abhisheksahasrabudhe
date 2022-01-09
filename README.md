@@ -12,7 +12,7 @@
 - ⚡ Fun fact **99 little bugs in the code. 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code …**
 
 <p align="left">
-  <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fhappy-programmers-day&psig=AOvVaw12gQ568_9us13L2xfePvxt&ust=1641830601997000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLC9tu6FpfUCFQAAAAAdAAAAABAD"></img>
+  <img align="left" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fhappy-programmers-day&psig=AOvVaw12gQ568_9us13L2xfePvxt&ust=1641830601997000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLC9tu6FpfUCFQAAAAAdAAAAABAD"></img>
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/@abhisheks1272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhisheks1272" height="30" width="40" /></a>
 <a href="https://instagram.com/abhishek_sahasrabudhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishek_sahasrabudhe" height="30" width="40" /></a>
