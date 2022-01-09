@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheksahasrabudhe&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheksahasrabudhe" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🔭 I’m currently working on **My Personal Porfolio**
 
@@ -10,7 +11,7 @@
 - 📫 How to reach me **abhisheksahasrabudhe1272@gmail.com**
 
 - ⚡ Fun fact **99 little bugs in the code. 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code …**
-  <img align="right" alt="Coding" width="400" src="![fuckingdeadline](https://user-images.githubusercontent.com/63090497/148696429-9cfda0e2-4f99-45c4-9e84-ad4c854ebdb1.gif)">
+ 
 <p align="left">
 
 <h3 align="left">Connect with me:</h3>
