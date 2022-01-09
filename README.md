@@ -12,7 +12,7 @@
 - ⚡ Fun fact **99 little bugs in the code. 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code …**
 
 <p align="left">
-  <img align="right" alt="Coding" width="400" src="abhisheksahasrabudhe/fuckingdeadline.gif">
+  <img align="right" alt="Coding" width="400" src="fuckingdeadline.gif">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/@abhisheks1272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhisheks1272" height="30" width="40" /></a>
 <a href="https://instagram.com/abhishek_sahasrabudhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishek_sahasrabudhe" height="30" width="40" /></a>
