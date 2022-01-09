@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheksahasrabudhe&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheksahasrabudhe" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abhisheksahasrabudhe1272@gmail.com**
 
-- ⚡ Fun fact **99 little bugs in the code. 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code …**
+- ⚡ Fun fact  **99 little bugs in the code. 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code …**
  
 <p align="left">
 
