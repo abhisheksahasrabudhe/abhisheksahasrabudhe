@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Abhishek, a Big data developer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm Abhishek, a Software developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on College Projects.
