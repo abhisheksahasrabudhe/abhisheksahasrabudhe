@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Abhishek Sahasrabudhe]!
+# 👋 Hey there, I'm Abhishek Sahasrabudhe!
 
 Welcome to my coding universe, where creativity meets technology. 🌟
 
@@ -10,8 +10,8 @@ I'm a developer with a passion for crafting innovative solutions and pushing the
 
 - 🌍 **Location**: [IN]
 - 🎯 **Current Mission**: Turning ideas into reality, one commit at a time.
-- 🌱 **Always Learning**: Currently diving into [New Tech/Concept] and loving every moment!
-- 🎨 **Hobbies**: When I'm not coding, you can find me [playing video games, hiking, playing chess].
+- 🌱 **Always Learning**: Currently diving into New Tech/Concept and loving every moment!
+- 🎨 **Hobbies**: When I'm not coding, you can find me playing video games, hiking, playing chess.
 
 ---
 
@@ -19,8 +19,8 @@ I'm a developer with a passion for crafting innovative solutions and pushing the
 
 Here's what I wield in my coding arsenal:
 
-- **Languages**:  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1Elogo=javascript&logoColor=black&style=flat) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-- **Frameworks & Libraries**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+- **Languages**:  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1Elogo=javascript&logoColor=black&style=flat) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)] ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)]
+- **Frameworks & Libraries**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) 
 - **Databases**: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 - **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
